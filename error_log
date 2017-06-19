@@ -1,0 +1,92 @@
+[05-Jan-2017 09:14:34 UTC] PHP Fatal error:  Call to a member function setStartDate() on null in /home/dev20/public_html/application/controllers/inventory.php on line 2017
+[17-Jan-2017 11:17:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dev20/public_html/application/controllers/inventory.php on line 9562
+[23-Jan-2017 10:35:07 UTC] PHP Parse error:  syntax error, unexpected 'text' (T_STRING), expecting ',' or ';' in /home/dev20/public_html/application/views/admin/manage_other_cms.php on line 90
+[23-Jan-2017 10:35:10 UTC] PHP Parse error:  syntax error, unexpected 'text' (T_STRING), expecting ',' or ';' in /home/dev20/public_html/application/views/admin/manage_other_cms.php on line 90
+[28-Jan-2017 06:31:43 UTC] PHP Fatal error:  Call to undefined method CI_Lang::lang() in /home/dev20/public_html/application/views/channel/header2.php on line 692
+[28-Jan-2017 06:32:15 UTC] PHP Fatal error:  Call to undefined method CI_Lang::lang() in /home/dev20/public_html/application/views/channel/header2.php on line 692
+[28-Jan-2017 11:01:07 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/dev20/public_html/application/controllers/reservation.php on line 5487
+[28-Jan-2017 11:04:08 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/dev20/public_html/application/controllers/reservation.php on line 5485
+[28-Jan-2017 11:12:35 UTC] PHP Parse error:  syntax error, unexpected 'up', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/dev20/public_html/application/controllers/reservation.php on line 12236
+[01-Feb-2017 19:23:24 UTC] PHP Fatal error:  Call to a member function attributes() on null in /home/dev20/public_html/application/controllers/mapping.php on line 761
+[02-Feb-2017 08:06:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dev20/public_html/application/models/reservation_model.php on line 1288
+[02-Feb-2017 08:06:37 UTC] PHP Parse error:  syntax error, unexpected ''` R JOIN manage_property P ON' (T_ENCAPSED_AND_WHITESPACE) in /home/dev20/public_html/application/models/reservation_model.php on line 3691
+[02-Feb-2017 08:06:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dev20/public_html/application/models/reservation_model.php on line 4665
+[02-Feb-2017 08:07:31 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/dev20/public_html/application/models/reservation_model.php on line 4896
+[02-Feb-2017 08:10:23 UTC] PHP Parse error:  syntax error, unexpected 'functi' (T_STRING), expecting function (T_FUNCTION) in /home/dev20/public_html/application/models/reservation_model.php on line 2391
+[02-Feb-2017 08:10:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dev20/public_html/application/models/reservation_model.php on line 4253
+[02-Feb-2017 09:04:33 UTC] PHP Parse error:  syntax error, unexpected ''num_nights' => $nig, ' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/dev20/public_html/application/models/reservation_model.php on line 481
+[08-Feb-2017 20:26:41 UTC] PHP Fatal error:  Call to a member function attributes() on null in /home/dev20/public_html/application/controllers/mapping.php on line 761
+[09-Feb-2017 14:57:45 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/dev20/public_html/application/controllers/reservation.php on line 5599
+[09-Feb-2017 14:57:54 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/dev20/public_html/application/controllers/reservation.php on line 5599
+[09-Feb-2017 14:58:05 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/dev20/public_html/application/controllers/reservation.php on line 5599
+[16-Feb-2017 11:03:14 UTC] PHP Parse error:  syntax error, unexpected '$channel' (T_VARIABLE) in /home/dev20/public_html/application/models/reservation_model.php on line 2781
+[16-Feb-2017 11:03:19 UTC] PHP Parse error:  syntax error, unexpected '$channel' (T_VARIABLE) in /home/dev20/public_html/application/models/reservation_model.php on line 2781
+[16-Feb-2017 11:03:31 UTC] PHP Parse error:  syntax error, unexpected '$channel' (T_VARIABLE) in /home/dev20/public_html/application/models/reservation_model.php on line 2781
+[16-Feb-2017 11:03:33 UTC] PHP Parse error:  syntax error, unexpected '$channel' (T_VARIABLE) in /home/dev20/public_html/application/models/reservation_model.php on line 2781
+[16-Feb-2017 11:03:33 UTC] PHP Parse error:  syntax error, unexpected '$channel' (T_VARIABLE) in /home/dev20/public_html/application/models/reservation_model.php on line 2781
+[24-Feb-2017 10:30:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dev20/public_html/application/controllers/reservation.php on line 974
+[08-Mar-2017 06:10:23 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/dev20/public_html/application/views/channel/reservation_list.php on line 695
+[08-Mar-2017 06:10:36 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/dev20/public_html/application/views/channel/reservation_list.php on line 695
+[09-Mar-2017 13:30:07 UTC] PHP Fatal error:  Call to a member function row_array() on boolean in /home/dev20/public_html/application/models/mapping_model.php on line 247
+[13-Mar-2017 06:58:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dev20/public_html/application/controllers/channel.php on line 538
+[13-Mar-2017 08:00:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dev20/public_html/application/views/channel/footer2.php on line 1685
+[14-Mar-2017 05:51:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dev20/public_html/application/controllers/admin.php on line 458
+[18-Mar-2017 13:13:32 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/dev20/public_html/application/controllers/channel.php on line 533
+[20-Mar-2017 11:25:01 UTC] PHP Fatal error:  Call to a member function result() on boolean in /home/dev20/public_html/application/views/channel/subscribe.php on line 214
+[20-Mar-2017 11:30:37 UTC] PHP Fatal error:  Call to a member function result() on boolean in /home/dev20/public_html/application/views/channel/subscribe.php on line 214
+[20-Mar-2017 11:30:53 UTC] PHP Fatal error:  Call to a member function result() on boolean in /home/dev20/public_html/application/views/channel/subscribe.php on line 214
+[20-Mar-2017 11:32:09 UTC] PHP Fatal error:  Call to a member function result() on boolean in /home/dev20/public_html/application/views/channel/subscribe.php on line 214
+[20-Mar-2017 11:33:22 UTC] PHP Fatal error:  Call to a member function result() on boolean in /home/dev20/public_html/application/views/channel/subscribe.php on line 214
+[20-Mar-2017 11:33:41 UTC] PHP Fatal error:  Call to a member function result() on boolean in /home/dev20/public_html/application/views/channel/subscribe.php on line 214
+[03-Apr-2017 06:25:26 UTC] PHP Fatal error:  Call to a member function result() on boolean in /home/dev20/public_html/application/controllers/admin.php on line 4724
+[03-Apr-2017 06:26:55 UTC] PHP Fatal error:  Call to a member function result() on boolean in /home/dev20/public_html/application/controllers/admin.php on line 4724
+[03-Apr-2017 06:27:13 UTC] PHP Fatal error:  Call to a member function format() on null in /home/dev20/public_html/application/views/channel/inventory/advance_update_reservetion/calendar.php on line 15
+[03-Apr-2017 06:27:44 UTC] PHP Fatal error:  Call to a member function result() on boolean in /home/dev20/public_html/application/controllers/admin.php on line 4724
+[03-Apr-2017 06:29:19 UTC] PHP Fatal error:  Call to a member function result() on boolean in /home/dev20/public_html/application/controllers/admin.php on line 4724
+[03-Apr-2017 06:34:32 UTC] PHP Fatal error:  Call to a member function format() on null in /home/dev20/public_html/application/views/channel/inventory/advance_update_reservetion/calendar.php on line 15
+[03-Apr-2017 07:01:01 UTC] PHP Fatal error:  Call to a member function result() on boolean in /home/dev20/public_html/application/controllers/admin.php on line 4724
+[03-Apr-2017 07:03:12 UTC] PHP Fatal error:  Call to a member function result() on boolean in /home/dev20/public_html/application/controllers/admin.php on line 4724
+[03-Apr-2017 07:03:36 UTC] PHP Fatal error:  Call to a member function result() on boolean in /home/dev20/public_html/application/controllers/admin.php on line 4724
+[03-Apr-2017 07:03:45 UTC] PHP Fatal error:  Call to a member function result() on boolean in /home/dev20/public_html/application/controllers/admin.php on line 4724
+[03-Apr-2017 07:04:03 UTC] PHP Fatal error:  Call to a member function result() on boolean in /home/dev20/public_html/application/controllers/admin.php on line 4725
+[03-Apr-2017 08:05:45 UTC] PHP Parse error:  syntax error, unexpected ''room_id' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/dev20/public_html/application/models/reservation_model.php on line 2678
+[03-Apr-2017 08:05:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dev20/public_html/application/models/reservation_model.php on line 3754
+[04-Apr-2017 05:12:34 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/dev20/public_html/application/models/despegar_model.php on line 39
+[04-Apr-2017 05:14:14 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/dev20/public_html/application/models/despegar_model.php on line 39
+[04-Apr-2017 06:11:31 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/dev20/public_html/application/controllers/admin.php on line 4923
+[04-Apr-2017 07:49:41 UTC] PHP Parse error:  syntax error, unexpected ''card_count' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/dev20/public_html/application/controllers/inventory.php on line 679
+[04-Apr-2017 08:21:01 UTC] PHP Parse error:  syntax error, unexpected ''1' (T_ENCAPSED_AND_WHITESPACE) in /home/dev20/public_html/application/controllers/inventory.php on line 5859
+[04-Apr-2017 08:32:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dev20/public_html/application/controllers/inventory.php on line 1493
+[04-Apr-2017 14:04:09 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/dev20/public_html/application/controllers/admin.php on line 5109
+[04-Apr-2017 20:03:09 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/dev20/public_html/system/database/DB_active_rec.php on line 990
+[04-Apr-2017 20:06:38 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/dev20/public_html/application/views/channel/channel_new_settings.php on line 881
+[04-Apr-2017 20:12:52 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/dev20/public_html/application/views/channel/channel_new_settings.php on line 881
+[04-Apr-2017 20:12:54 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/dev20/public_html/application/views/channel/channel_new_settings.php on line 881
+[04-Apr-2017 20:12:55 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/dev20/public_html/application/views/channel/channel_new_settings.php on line 881
+[04-Apr-2017 20:14:57 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/dev20/public_html/application/views/channel/channel_new_settings.php on line 881
+[04-Apr-2017 20:15:16 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/dev20/public_html/application/views/channel/channel_new_settings.php on line 881
+[05-Apr-2017 04:52:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dev20/public_html/application/models/channel_model.php on line 501
+[05-Apr-2017 06:10:21 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/dev20/public_html/application/models/channel_model.php on line 1068
+[05-Apr-2017 06:12:21 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/dev20/public_html/application/models/mapping_model.php on line 263
+[05-Apr-2017 06:12:23 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/dev20/public_html/application/models/mapping_model.php on line 263
+[05-Apr-2017 06:12:23 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/dev20/public_html/application/models/mapping_model.php on line 263
+[05-Apr-2017 06:12:24 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/dev20/public_html/application/models/mapping_model.php on line 263
+[05-Apr-2017 06:12:26 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/dev20/public_html/application/models/mapping_model.php on line 263
+[05-Apr-2017 12:03:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dev20/public_html/application/controllers/reservation.php on line 5867
+[05-Apr-2017 12:44:45 UTC] PHP Parse error:  syntax error, unexpected '')' (T_CONSTANT_ENCAPSED_STRING) in /home/dev20/public_html/application/controllers/reservation.php on line 14804
+[05-Apr-2017 12:44:57 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/dev20/public_html/application/controllers/reservation.php on line 297
+[06-Apr-2017 05:23:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dev20/public_html/application/models/reservation_model.php on line 4841
+[06-Apr-2017 06:19:09 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home/dev20/public_html/application/models/despegar_model.php on line 222
+[06-Apr-2017 06:20:10 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dev20/public_html/application/models/despegar_model.php on line 222
+[06-Apr-2017 09:28:26 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/dev20/public_html/application/controllers/reservation.php on line 2737
+[06-Apr-2017 09:30:02 UTC] PHP Warning:  Unterminated comment starting line 1346 in /home/dev20/public_html/application/controllers/reservation.php on line 1346
+[06-Apr-2017 09:30:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dev20/public_html/application/controllers/reservation.php on line 1349
+[07-Apr-2017 12:21:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/dev20/public_html/application/controllers/ajax.php on line 1252
+[07-Apr-2017 13:21:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dev20/public_html/application/models/reservation_model.php on line 4001
+[11-Apr-2017 00:03:41 UTC] PHP Fatal error:  Call to a member function add() on boolean in /home/dev20/public_html/application/views/channel/calendar_customize_date.php on line 97
+[11-Apr-2017 04:27:21 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/dev20/public_html/application/models/despegar_model.php on line 161
+[19-May-2017 00:55:34 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/dev20/public_html/application/views/channel/reservation_print.php on line 206
+[20-May-2017 06:24:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dev20/public_html/application/controllers/reservation.php on line 12886
+[15-Jun-2017 19:01:20 UTC] PHP Parse error:  syntax error, unexpected '', first_name,last_name)  Full' (T_CONSTANT_ENCAPSED_STRING) in /home/dev20/public_html/application/controllers/reservation.php on line 13419
+[15-Jun-2017 19:02:56 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::sql() in /home/dev20/public_html/application/controllers/reservation.php on line 13417
+[15-Jun-2017 19:03:32 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/dev20/public_html/application/controllers/reservation.php on line 13419
